@@ -1,0 +1,6 @@
+Cluster,Customer_Count,Avg_Age,Avg_Annual_Income_k,Avg_Annual_Income_INR,Avg_Spending_Score,Business_Label
+0,18,53.3,32.2,2653750.0,17.1,Budget Customers
+1,24,25.6,27.3,2251562.5,81.0,High Spenders
+2,25,30.4,52.5,4332900.0,81.7,Premium Customers
+3,11,31.6,26.0,2145000.0,21.1,Budget Customers
+4,22,45.7,54.0,4455000.0,19.4,Potential Customers
